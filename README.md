@@ -18,7 +18,7 @@ An AI-powered virtual mouse that allows users to control the cursor and perform 
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/eye-controlled-mouse.git](https://github.com/YOUR-USERNAME/eye-controlled-mouse.git)
+   git clone https://github.com/AjaySurya453/Visual-Cursor-Controller-.git
    cd eye-controlled-mouse
 2.Install Dependencies Ensure you have Python installed, then run:
     pip install -r requirements.txt
